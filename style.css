@@ -1,0 +1,49 @@
+* {
+	Margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: ‘share Tech’, sans-serif;
+    outline:1px solid red;
+}
+h1 {
+    text-align: center;
+    margin: 20px;
+}
+img.octocat {
+    height: 200px;
+    align-items: center;
+}
+.container {
+    background-color: whitesmoke;
+    height: 860px;
+    width: 860px;
+    padding: 20px;
+    justify-content: center;
+}
+.work {
+    height: 220px;
+    width: 800px;
+    background-color: turquoise;
+    display: flex;
+    padding: 10px;
+    margin: 10px 10px 0px 10px;
+    justify-content: space-evenly;
+}
+.life {
+    height: 220px;
+    width: 800px;
+    background-color: white;
+    display: flex;
+    padding: 10px;
+    margin: 10px 10px 0px 10px;
+    justify-content: space-evenly;
+}
+.past {
+    height: 220px;
+    width: 800px;
+    background-color: violet;
+    display: flex;
+    padding: 10px;
+    margin: 10px 10px 0px 10px;
+    justify-content: space-evenly;
+}
